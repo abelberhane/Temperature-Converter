@@ -1,0 +1,6 @@
+c:\users\aberhane\documents\visual studio 2017\Projects\Temperature Converter\Temperature Converter\bin\Debug\Temperature Converter.exe.config
+c:\users\aberhane\documents\visual studio 2017\Projects\Temperature Converter\Temperature Converter\bin\Debug\Temperature Converter.exe
+c:\users\aberhane\documents\visual studio 2017\Projects\Temperature Converter\Temperature Converter\bin\Debug\Temperature Converter.pdb
+c:\users\aberhane\documents\visual studio 2017\Projects\Temperature Converter\Temperature Converter\obj\Debug\Temperature Converter.csprojResolveAssemblyReference.cache
+c:\users\aberhane\documents\visual studio 2017\Projects\Temperature Converter\Temperature Converter\obj\Debug\Temperature Converter.exe
+c:\users\aberhane\documents\visual studio 2017\Projects\Temperature Converter\Temperature Converter\obj\Debug\Temperature Converter.pdb
