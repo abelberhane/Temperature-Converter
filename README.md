@@ -1,4 +1,4 @@
-# TemperatureConverter
+# Temperature Converter
 One of my earlier console applications. Great simple program for beginners and others who are interested. 
 
 
